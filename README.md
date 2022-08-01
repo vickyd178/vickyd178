@@ -10,7 +10,7 @@
 ## Hi there 👋, I'm Vicky Dhope.
 ### I am a passionate about Android Development.
 
-I am a fourth year undergraduate student at IIT Kharagpur. I am an active software developer and an impact driven individual. I love contributing to open source projects, and I am ever ready to learn more. I always strive to build projects which add value to people's lives. I believe in the quote, *"Success is not the money you make, it is the difference you bring in people's lives"*
+I am an Android Developer at Private Firm. I am an active software developer and an impact driven individual. I love coding. I believe in the quote, *"Success is not the money you make, it is the difference you bring in people's lives"*
 
 - 🔭 I keep learning new things and often play video games.
 - 💬 Talk with me about technology.
