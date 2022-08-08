@@ -18,6 +18,7 @@ I am an Android Developer at Private Firm. I am an active software developer and
 - ⚡ Looking forward for interesting collaborations and projects.
 
 <h2><b>💻 Tech Stack</b></h2>
+<br/>
 <p align="center">
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
@@ -28,15 +29,7 @@ I am an Android Developer at Private Firm. I am an active software developer and
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"/>
 </p>
 
-<br/>
-
-<p align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=vickyd178&theme=tokyonight_duo&hide_border=false" alt="Vicky's readme streaks" />
-</p>
-
-<br/><br/>
-<hr>
-
+<h2></h2>
 <!--from img.icons8.com/dusk/48/000000/name.png-->
 <div>
   <h3 align="center">Connect with me</h3>
